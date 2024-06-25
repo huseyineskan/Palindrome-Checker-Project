@@ -2,7 +2,7 @@
 Palindrome Checker Project
 
 ## Description
-Mer information about [Palindrome](https://en.wikipedia.org/wiki/Palindrome){:target="_blank"}
+Mer information about [Palindrome](https://en.wikipedia.org/wiki/Palindrome){target="_blank"}
 
 ### Features
 - It gives an alert for empty entries.
